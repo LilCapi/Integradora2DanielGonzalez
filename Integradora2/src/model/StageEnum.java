@@ -1,5 +1,0 @@
-package model;
-
-public enum StageEnum {
-    START,ANALISIS,DESIGN,EXECUTION,CLOSING, FOLLOW_UP_AND_PROJECT_CONTROL;
-}
